@@ -61,20 +61,22 @@
 				<key>WFFolder</key>
 				<dict>
 					<key>displayName</key>
-					<string>Backup</string>
+					<string>Shortcuts</string>
 					<key>fileLocation</key>
 					<dict>
 						<key>WFFileLocationType</key>
-						<string>iCloud</string>
+						<string>Shortcuts</string>
+						<key>appContainerBundleIdentifier</key>
+						<string>com.apple.shortcuts</string>
 						<key>crossDeviceItemID</key>
-						<string>docs.icloud.com:com.apple.CloudDocs/71C6F1C4-E34A-4B4C-9FED-62B70137749D/d5e290af5c8796647c4ff4775cd99b6aa97173a5</string>
+						<string>docs.icloud.com:com.apple.CloudDocs/documents/200603e0658211bcdfc3e062063502b84084a266</string>
 						<key>fileProviderDomainID</key>
-						<string>com.apple.CloudDocs.iCloudDriveFileProvider/8490D092-B665-44CE-B773-583DD8574185</string>
+						<string>com.apple.CloudDocs.iCloudDriveFileProvider/FCB1C390-2B1D-417F-97E7-684FBE5F6063</string>
 						<key>relativeSubpath</key>
-						<string>com~apple~CloudDocs/iOS-Shortcuts-Gallery</string>
+						<string></string>
 					</dict>
 					<key>filename</key>
-					<string>iOS-Shortcuts-Gallery</string>
+					<string>Documents</string>
 				</dict>
 				<key>WFInput</key>
 				<dict>
